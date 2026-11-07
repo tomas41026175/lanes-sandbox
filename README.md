@@ -1,2 +1,5 @@
 # lanes-sandbox
-lanes 本機實測用的測試 repo（只放測試程式）
+
+lanes 本機實測用的測試 repo（事件派單、CI 失敗、review 留言、PR 衝突、推送閘門、relay）。內容只有測試用的程式，不放任何真實資料。
+
+- 測試：`npm test`（`node --test`，不需要安裝套件）
