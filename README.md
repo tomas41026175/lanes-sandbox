@@ -4,3 +4,4 @@ lanes 本機實測用的測試 repo（事件派單、CI 失敗、review 留言�
 
 - 測試：`npm test`（`node --test`，不需要安裝套件）
 - 2026-11-07：main 先進的一行（runbook 2.6，故意和 PR #2／#3 衝突）
+- 2026-11-07：lanes 實測 3.3（閘門 on）
